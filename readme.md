@@ -1,6 +1,17 @@
-# Extract frames from video
+# Extract frames from video using ffmpeg
 
 how to use this code
+
+## Requirements
+
+- ffmpeg installed on your system
+- bash shell
+
+## Install ffmpeg
+
+```shell
+brew install ffmpeg
+```
 
 ```shell
 chmod +x ./extract_frames.sh
